@@ -24,4 +24,9 @@ School Coursework in Python 3
   2. Quicksort
   3. Merge Sort
   4. Radix Sort
-- Graphs & Graph Algorithms
+- Graphs & Graph Algorithms:
+  1. Depth-First Search (DFS)
+  2. Breadth-First Search (BFS)
+  3. Dijkstra's Algorithm (Shortest path + variations)
+  4. Prim-Jarnik's Algorithm
+  5. Minimum Spanning Tree (MST)
